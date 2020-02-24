@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 33c4b083b670100458907f2889a36d0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BulletPrefab: {fileID: 4773093740040069127, guid: 79db534aea69589489ab38c54076ba03,
+      type: 3}
+  - TripleShotPrefab: {fileID: 1491906685770586846, guid: 41e34d6f675e7af4ab694d01e6e21bdf,
+      type: 3}
+  - DeathBeamPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
